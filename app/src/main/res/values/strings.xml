@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fechas</string>
+    <string name="lblTitulo">MANEJO DE FECHAS</string>
+    <string name="lblFecha">Fecha</string>
+    <string name="lblButton">Calcular Fecha</string>
+</resources>
